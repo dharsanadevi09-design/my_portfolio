@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio CMS",
+  "description": "A CMS-based portfolio with an admin panel to manage personal details, projects, experience, and custom sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
